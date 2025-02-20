@@ -1,4 +1,4 @@
-package cadastro;
+package construtores;
 
 public class SistemaDeCadastro {
     public static void main(String[] args) {
